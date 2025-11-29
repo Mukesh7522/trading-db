@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 🌐 **[Live Demo](https://mukesh-tradingdb.vercel.app/)** | 📊 [View Documentation](#documentation)
+### 🌐 **[Live Demo](https://mukesh-tradingdb.vercel.app/)**
 
 *A comprehensive, real-time stock market analytics platform featuring AI-powered forecasting, technical analysis, and interactive visualizations.*
 
