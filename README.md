@@ -501,14 +501,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Mukesh7522/stock-dashboard&type=Date)](https://star-history.com/#Mukesh7522/stock-dashboard&Date)
-
----
-
-<div align="center">
-
 ### 📊 Built with ❤️ for the Trading Community
 
 **If you find this project helpful, please give it a ⭐!**
