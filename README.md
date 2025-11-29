@@ -11,8 +11,6 @@
 
 *A comprehensive, real-time stock market analytics platform featuring AI-powered forecasting, technical analysis, and interactive visualizations.*
 
-![Dashboard Preview](docs/images/dashboard-preview.png)
-
 </div>
 
 ---
