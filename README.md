@@ -11,8 +11,6 @@
 
 *A comprehensive, real-time stock market analytics platform featuring AI-powered forecasting, technical analysis, and interactive visualizations.*
 
-![Dashboard Preview](docs/images/dashboard-preview.png)
-
 </div>
 
 ---
@@ -83,19 +81,19 @@
 <div align="center">
 
 ### Market Overview
-![Market Overview](docs/images/market-overview.png)
+![Market Overview](docs/images/MarketOverview.png)
 *Real-time market data with interactive stock cards and sector performance*
 
 ### Stock Analysis
-![Stock Analysis](docs/images/stock-analysis.png)
+![Stock Analysis](docs/images/StockAnalysis.png)
 *Advanced technical analysis with 10 years of historical data*
 
 ### AI Forecasting
-![Forecasting](docs/images/forecasting.png)
+![Forecasting](docs/images/Forecasting.png)
 *Multiple ML models with confidence intervals and risk analysis*
 
 ### Financial Statements
-![Financials](docs/images/financials.png)
+![Financials](docs/images/Financials.png)
 *Quarterly financial statements with trend visualization*
 
 </div>
@@ -500,14 +498,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - [ ] Multi-language support
 
 ---
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Mukesh7522/stock-dashboard&type=Date)](https://star-history.com/#Mukesh7522/stock-dashboard&Date)
-
----
-
-<div align="center">
 
 ### 📊 Built with ❤️ for the Trading Community
 
