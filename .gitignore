@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Environment variables (DO NOT UPLOAD PASSWORDS!)
+.env
+.env.local
+.env.production
+.env.development
+backend/.env
+frontend/.env
+
+# Build outputs
+dist/
+build/
+.vercel/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive files
+*.pem
+*.key
