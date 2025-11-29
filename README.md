@@ -83,19 +83,19 @@
 <div align="center">
 
 ### Market Overview
-![Market Overview](docs/images/market-overview.png)
+![Market Overview](docs/images/MarketOverview.png)
 *Real-time market data with interactive stock cards and sector performance*
 
 ### Stock Analysis
-![Stock Analysis](docs/images/stock-analysis.png)
+![Stock Analysis](docs/images/StockAnalysis.png)
 *Advanced technical analysis with 10 years of historical data*
 
 ### AI Forecasting
-![Forecasting](docs/images/forecasting.png)
+![Forecasting](docs/images/Forecasting.png)
 *Multiple ML models with confidence intervals and risk analysis*
 
 ### Financial Statements
-![Financials](docs/images/financials.png)
+![Financials](docs/images/Financials.png)
 *Quarterly financial statements with trend visualization*
 
 </div>
